@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("Hi Vamsi Krishna. I am the spring boot Demo project");
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("Successfully deployed spring boot application with Jenkin....");
 	}
 
 }
